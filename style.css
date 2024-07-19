@@ -1,0 +1,7 @@
+:root{
+   --beige: #F5F3EF;
+}
+@font-face {
+    font-family: inter;
+    src: url(./assets/fonts/Inter-Regular.ttf);
+}
